@@ -1,4 +1,4 @@
-# HPE VNC wall (Standalone)
+# HPE VNC wall
 
 Reusable wall dashboard for many VNC hosts, grouped by any label (`group`), not tied to production lines.
 
