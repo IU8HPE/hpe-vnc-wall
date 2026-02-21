@@ -1,0 +1,21 @@
+{
+  "title": "HPE VNC wall",
+  "listen_host": "0.0.0.0",
+  "wall_port": 8090,
+  "websockify_port": 6080,
+  "novnc_web_root": "vendor/noVNC",
+  "default_vnc_port": 5900,
+  "vnc_password": "",
+  "default_view_only": true,
+  "allow_interactive": true,
+  "resize": "remote",
+  "quality": 6,
+  "compression": 6,
+  "preconnect": false,
+  "auth_enabled": false,
+  "auth_username": "admin",
+  "auth_password": "",
+  "auth_cookie_name": "vnc_wall_session",
+  "auth_session_ttl_hours": 12,
+  "auth_session_secret": ""
+}
