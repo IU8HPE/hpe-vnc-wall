@@ -20,7 +20,7 @@ Reusable wall dashboard for many VNC hosts, grouped by any label (`group`), not 
 - `wall_server.py`
 - `config/config.json`
 - `data/hosts.csv`
-- `vendor/noVNC` (you provide this)
+- `vendor/noVNC`
 
 ## Requirements
 
