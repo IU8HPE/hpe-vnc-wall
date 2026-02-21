@@ -1,0 +1,4 @@
+group,name,host,port,enabled,password,note
+Demo,CLIENT-01,demo-vnc-01.local,5900,1,,Sample endpoint
+Demo,CLIENT-02,demo-vnc-02.local,5900,1,,Sample endpoint
+Lab,WORKSTATION-A,192.0.2.10,5900,0,,Disabled sample endpoint
